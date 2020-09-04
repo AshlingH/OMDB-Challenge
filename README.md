@@ -4,7 +4,7 @@ Brought to you by Aisling Hennessy, Vancouver BC
 
 I created a React App for the UX/Web Developer Intern Challenge for an Application to the Shopify Internship, Winter 2021
 
-# The nom init: Movie awards for entrepreneurs
+# The Shoppies: Movie awards for entrepreneurs
 
 You can find the challenge [here] (https://docs.google.com/document/d/1AZO0BZwn1Aogj4f3PDNe1mhq8pKsXZxtrG--EIbP_-w/preview?pru=AAABdHlQRnE*WQl0v68vsF_nPbygOim7ww#heading=h.31w9woubunro)
 
