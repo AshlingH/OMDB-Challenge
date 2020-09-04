@@ -14,6 +14,6 @@ return (
     </Fragment>
 );
 
-
+);
 
 export default Footer;
