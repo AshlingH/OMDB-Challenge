@@ -1,0 +1,19 @@
+{
+  "name": "omdb-challenge",
+  "version": "1.0.0",
+  "description": "Brought to you by Aisling Hennessy, Vancouver BC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AshlingH/OMDB-Challenge.git"
+  },
+  "author": "Aisling",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AshlingH/OMDB-Challenge/issues"
+  },
+  "homepage": "https://github.com/AshlingH/OMDB-Challenge#readme"
+}
